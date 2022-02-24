@@ -83,10 +83,11 @@ header{
     font-size: 20px;
 } */
 .xem-them{
+    width: 980px;
     position: absolute;
     top: 2580px;
-    left: 500px;
-    text-align: center;
+    margin: auto;
+    left: 360px;
 }
 .xem-them-san-pham{
     text-align: center;
